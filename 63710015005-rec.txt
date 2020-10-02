@@ -1,0 +1,2 @@
+Date                             Credit      Debit     Balance
+[2020-10-02] [08:46:58]       900              900
